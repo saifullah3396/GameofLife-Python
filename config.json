@@ -1,0 +1,11 @@
+{
+  "pattern_dir": "patterns/",
+  "tests_dir": "tests/",
+  "grid_size": {
+    "width": 40,
+    "height": 20	
+  },
+  "refresh_rate": 1,
+  "is_test": 0,
+  "test_pattern": "Clear"
+}
